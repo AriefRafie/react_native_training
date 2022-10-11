@@ -39,5 +39,5 @@ Training Mobile Application using React Native by Rynet
 ## Module
 1.  Chapter 1 - Chapter 4   :   Day 1
 2.  Chapter 5 - Chapter 9   :   Day 2
-3.  Chapter 10 - Chapter 13 :   Day 3
-4.  Chapter 14 - Chapter 15 :   Day 4
+3.  Chapter 10 - Chapter 16 :   Day 3
+4.  HANDS-ON PROJECT 1 & 2  :   Day 4
