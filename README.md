@@ -35,3 +35,9 @@ Training Mobile Application using React Native by Rynet
 1.  9.30am start
 2.  1pm - 2pm break
 3.  4.30pm end
+
+## Module
+1.  Chapter 1 - Chapter 4   :   Day 1
+2.  Chapter 5 - Chapter 9   :   Day 2
+3.  Chapter 10 - Chapter 13 :   Day 3
+4.  Chapter 14 - Chapter 15 :   Day 4
