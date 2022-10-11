@@ -31,6 +31,8 @@ Training Mobile Application using React Native by Rynet
         -   Views (React components)
     - callbacks is function in react
 
+11. use concat to combine list of array
+
 ## Tentative training [11/10/22 - 14/10/22]
 1.  9.30am start
 2.  1pm - 2pm break
@@ -60,3 +62,4 @@ Training Mobile Application using React Native by Rynet
 4.  expo init [nameProject]
 5.  Select black templete
 6.  expo start [npx expo start ]
+
