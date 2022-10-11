@@ -1,4 +1,4 @@
-# react_native_training
+# react_native_training [https://reactnative.dev/]
 Training Mobile Application using React Native by Rynet
 
 1.  Mobile app react native [web, ios, android]
@@ -41,3 +41,22 @@ Training Mobile Application using React Native by Rynet
 2.  Chapter 5 - Chapter 9   :   Day 2
 3.  Chapter 10 - Chapter 16 :   Day 3
 4.  HANDS-ON PROJECT 1 & 2  :   Day 4
+
+## Tools
+1.  Node.js [node -v] [https://nodejs.org/en/]
+2.  NPM [npm -v]
+3.  Android Studio [simulator] [https://developer.android.com/studio]
+4.  Webpack [simulator] [https://webpack.js.org/]
+5.  USB [physical device]
+
+## Dev Environment
+1.  React cli :: more deep depends on what kind of OS [Android / IOS]
+2.  Expo cli :: vitual devices [https://expo.dev/] [https://play.google.com/store/apps/details?id=host.exp.exponent&hl=en&gl=US]
+
+## Installation
+1.  install node.js
+2.  npm i -g npm@8.19.2 [update the npm to get the latest npm version]
+3.  npm i -g expo-cli
+4.  expo init [nameProject]
+5.  Select black templete
+6.  expo start [npx expo start ]
