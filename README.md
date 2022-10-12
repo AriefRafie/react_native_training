@@ -63,3 +63,7 @@ Training Mobile Application using React Native by Rynet
 5.  Select black templete
 6.  expo start [npx expo start ]
 
+App.js change to Main.js
+    -   configure:
+        -   Node Module > expo > AppEntry.js [change here]
+
