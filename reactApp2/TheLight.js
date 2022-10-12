@@ -16,6 +16,11 @@ import bulbOn from "./assets/the-light/bulb-on.jpg";
 export default function TheLight() {
 
   const [isEnable, setIsEnable] = useState(false);
+  {/** const [isEnable, setIsEnable] = useState(false); 
+          same like  
+        const [isEnable] = useState(false);
+        const [setIsEnable] = useState(false);
+  */}
   const toggleSwitch = () => setIsEnable((previousState) => !previousState);
   return (
     <SafeAreaView style={styles.container}>
